@@ -4,4 +4,9 @@ p{
 
 h1{
     color:rgb(241, 138, 155);
+    font-family: monospace;
+}
+
+h2{
+    font-family: sans-serif;
 }
